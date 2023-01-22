@@ -8,57 +8,6 @@ body{
 #main-div-container{
     margin: 3rem;
 }
-#main-inner-div{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-
-}
-.div-main-1-inner{
-    width: 49%;
-    height: 43.55rem;
-    padding: 1rem;
-    background-color: whitesmoke;
-
-
-}
-h1{
-font-size: 3.5rem;
-margin: 1.5rem;
-}
-.div-main-12-inner{
-    width: 49%;
-    height: 43.55rem;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:space-around;
-
-
-}
-.div-main-2-inner{
-    width: 49%;
-    margin-top: 2rem;
-    height: 20rem;
-    padding: 1rem;
-    background-color: whitesmoke;
-
-}
-.mini-div{
-    width: 50%;
-    height: 50%;
-    padding: 1rem;
-    background-color: whitesmoke;
-
-
-}
-#read-more{
-
-}
-img{
-    width: 100%;
-    height: 100%;
-}
-/*Now we will write the css for form*/
 form{
     height:auto;
     margin-top: 2rem;
